@@ -40,10 +40,7 @@ O **Alura Web Page** simula uma página institucional moderna, com foco em respo
 
 <div align="center">
 
-<!-- Substitua pelo link do deploy se houver -->
-<!-- Exemplo: https://alurawebpage-C-amorim.vercel.app -->
-
-<img src="https://raw.githubusercontent.com/C-amorim/Alura__Web__Page/main/assets/demo.png" alt="Demonstração do Alura Web Page" width="80%">
+🔗 [Acesse o projeto online (Vercel)](https://alura-web-page.vercel.app)
 
 </div>
 
